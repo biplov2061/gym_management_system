@@ -1,0 +1,24 @@
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.vbproj.AssemblyReference.cache
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.homepage.resources
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.Resources.resources
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.vbproj.GenerateResource.cache
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.vbproj.CoreCompileInputs.cache
+C:\Users\dnepa\source\repos\GYMM\GYMM\bin\Debug\Guna.UI2.dll
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.vbproj.Up2Date
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.loginform.resources
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.dashboard.resources
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.membership.resources
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.Equipment.resources
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.Suppliments.resources
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\GYMM.Trainer.resources
+C:\Users\dnepa\source\repos\GYMM\GYMM\bin\Debug\Bulls Fitness.exe.config
+C:\Users\dnepa\source\repos\GYMM\GYMM\bin\Debug\Bulls Fitness.exe.manifest
+C:\Users\dnepa\source\repos\GYMM\GYMM\bin\Debug\Bulls Fitness.application
+C:\Users\dnepa\source\repos\GYMM\GYMM\bin\Debug\Bulls Fitness.exe
+C:\Users\dnepa\source\repos\GYMM\GYMM\bin\Debug\Bulls Fitness.pdb
+C:\Users\dnepa\source\repos\GYMM\GYMM\bin\Debug\Bulls Fitness.xml
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\Bulls Fitness.exe.manifest
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\Bulls Fitness.application
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\Bulls Fitness.exe
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\Bulls Fitness.xml
+C:\Users\dnepa\source\repos\GYMM\GYMM\obj\Debug\Bulls Fitness.pdb
